@@ -1,6 +1,6 @@
 /*
 [rewrite_local]
-^https:\/\/quark-api\.uc\.cn\/\d\/clouddrive\/member url script-response-body https://raw.githubusercontent.com/510004015/Quantumult_X/Remote/Premium/Quark.js
+^https:\/\/quark-api\.uc\.cn\/\d\/clouddrive\/member url script-response-body 
 [mitm] 
 hostname = quark-api.uc.cn
 */
